@@ -1,22 +1,55 @@
-### Bachelor of Science in Civil Engineering
+# Hi, I'm **errorsnty** 👋
 
-I'm currently pursuing a Bachelor of Science in Civil Engineering at First City Providential College. I have a passion for problem-solving, structural design, and bringing innovative solutions to real-world engineering challenges. My studies focus on infrastructure development, project management, and sustainable construction.
+---
 
-### Skills and Interests
+### 🎓 **Bachelor of Science in Civil Engineering**
 
-- **Technical Skills**: AutoCAD, SAP2000, Microsoft Excel, and basic programming for civil engineering applications
-- **Interests**: Sustainable construction, urban development, and innovative infrastructure solutions
-- **Project Management**: Familiar with project planning and execution, including time management and resource allocation
+Currently pursuing my degree at **First City Providential College**, with a passion for **innovative solutions** in the field of **civil engineering**. My focus areas include **infrastructure development**, **sustainable construction**, and **project management**. I aim to design and create environments that improve both function and aesthetics.
 
-### What I'm Working On
+---
 
-- Enhancing my knowledge in structural analysis and geotechnical engineering
+### 🛠 **Skills & Tools**
 
-- Exploring innovations in urban infrastructure and sustainable development
+I blend technical expertise with creative problem-solving to deliver efficient and forward-thinking solutions:
+
+- **Technical Proficiencies**  
+  ![AutoCAD](https://img.shields.io/badge/AutoCAD-E34F26?style=flat-square&logo=autodesk&logoColor=white)
+  ![SAP2000](https://img.shields.io/badge/SAP2000-1572B6?style=flat-square&logo=sap&logoColor=white)
+  ![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+  
+- **Soft Skills**  
+  - **Collaboration**: Experienced in team projects, ensuring open communication and shared goals  
+  - **Project Management**: Skilled in managing timelines, resource allocation, and coordination  
+  - **Design Thinking**: Focused on human-centered design, creating functional yet beautiful solutions
+  
+- **Design Interests**  
+  - Sustainable construction  
+  - Urban development  
+  - Innovative infrastructure solutions
+
+---
+
+### 🚧 **Projects I'm Involved In**
+
+I'm always working on exciting projects to push boundaries in civil engineering:
+
+- **Structural Analysis**  
+  📚 Currently deepening my understanding of structural behavior and geotechnical principles.
+
+- **Design Competitions**  
+  🏗️ Actively participating in competitions to blend engineering with creative problem-solving.
+
+- **Urban Infrastructure**  
+  🌍 Exploring eco-friendly, sustainable designs for urban environments.
+
+---
+
+### 💬 **Let’s Connect!**
+
+I love engaging with like-minded people, whether it's about civil engineering, project management, or just brainstorming innovative ideas! Feel free to reach out if you want to:
+
+- Share insights and ideas  
+- Explore creative solutions  
 
 
 
-<!---
-Errorsnty/Errorsnty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
